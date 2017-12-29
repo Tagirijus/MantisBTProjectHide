@@ -2,6 +2,8 @@
 
 ## About
 
+ATTENTION: Plugin still in development and it does not work!
+
 This plugin just hides the inactive projects in the manage projects page table. Disable plugin to show the projects again.
 
 ## Ideas
