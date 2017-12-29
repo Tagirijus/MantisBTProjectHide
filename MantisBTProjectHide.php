@@ -4,7 +4,7 @@ class MantisBTProjectHidePlugin extends MantisPlugin {
 
   function register() {
     $this->name        = 'MantisBT Project Hide';
-    $this->description = 'Hides inactive MantisBT projects.';
+    $this->description = 'Hides inactive MantisBT projects on the "manage projects page".';
 
     $this->version     = '0.1';
     $this->requires    = array(
